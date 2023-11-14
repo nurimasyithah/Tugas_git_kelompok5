@@ -1,4 +1,4 @@
-public class MainPerson {
+public class Main {
     public static void main(String[] args) {
         // Membuat objek Student dengan nama "Dimas", usia 18, dan Student ID "2208107060"
         Student student = new Student("Dimas", 18, "2208107060");
