@@ -5,7 +5,7 @@ PROJECT TITLE: Employee Management System
 PURPOSE OF PROJECT:
 This project demonstrates the implementation of key object-oriented programming concepts such as encapsulation, inheritance, polymorphism, and abstraction/interfaces. It models a simple Employee Management System with different types of employees, including Students, Teachers, Managers, Engineers, and general Employees.
 
-VERSION or DATE: November 2023
+VERSION or DATE: 14 November 2023
 
 HOW TO START THIS PROJECT:
 To start this project, follow these steps:
